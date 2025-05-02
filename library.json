@@ -1,0 +1,7 @@
+{
+  "name": "esp32-utils",
+  "version": "0.0.1",
+  "description": "Utilities for managing esp32",
+  "frameworks": ["espidf"],
+  "platforms": ["espressif32"]
+}
